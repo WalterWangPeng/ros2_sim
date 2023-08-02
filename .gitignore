@@ -4,3 +4,4 @@ log/*
 .catkin_workspace
 ./src/CMakeLists.txt
 .vscode/
+*.zip
